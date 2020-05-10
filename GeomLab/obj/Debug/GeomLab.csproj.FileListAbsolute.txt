@@ -1,0 +1,10 @@
+D:\C#\GeomLab\GeomLab\bin\Debug\GeomLab.exe.config
+D:\C#\GeomLab\GeomLab\bin\Debug\GeomLab.exe
+D:\C#\GeomLab\GeomLab\bin\Debug\GeomLab.pdb
+D:\C#\GeomLab\GeomLab\obj\Debug\GeomLab.csprojAssemblyReference.cache
+D:\C#\GeomLab\GeomLab\obj\Debug\GeomLab.Form1.resources
+D:\C#\GeomLab\GeomLab\obj\Debug\GeomLab.Properties.Resources.resources
+D:\C#\GeomLab\GeomLab\obj\Debug\GeomLab.csproj.GenerateResource.cache
+D:\C#\GeomLab\GeomLab\obj\Debug\GeomLab.csproj.CoreCompileInputs.cache
+D:\C#\GeomLab\GeomLab\obj\Debug\GeomLab.exe
+D:\C#\GeomLab\GeomLab\obj\Debug\GeomLab.pdb
