@@ -115,14 +115,12 @@ namespace GeomLab
                         {
                             if (B.id != points.Count() - 1)
                                 B = points[B.id + 1];
-                            else B = points[0];
                         }
 
                         if (B.point == C.point)
                         {
                             if (C.id != points.Count() - 1)
                                 C = points[C.id + 1];
-                            else C = points[0];
                         }
                         if (A.id == 0) break;
                     }
