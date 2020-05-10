@@ -87,10 +87,7 @@ namespace GeomLab
                                 }
                                 else
                                 {
-                                    MyPoint nextC = points[0];
-                                    if (area(A.point, B.point, C.point) < area(A.point, B.point, nextC.point))
-                                         C = nextC;
-                                    else break;
+                                    break;
                                 }
                             }
                             if (B.id != points.Count() - 1)
@@ -102,10 +99,7 @@ namespace GeomLab
                             }
                             else
                             {
-                                MyPoint nextB = points[0];
-                                if (area(A.point, B.point, C.point) < area(A.point, nextB.point, C.point))
-                                    B = nextB;
-                                else break;
+                                 break;
                             }
                         }
                         if (area(A.point, B.point, C.point) > area(bA.point, bB.point, bC.point))
